@@ -73,7 +73,7 @@ xend=xb;
 
 **Output :**
 
-![WhatsApp Image 2025-09-22 at 11 31 57_ba4b3c94](https://github.com/user-attachments/assets/f6badf95-eea2-47aa-bfcc-6ecd818c94ce)
+![alt text](<WhatsApp Image 2025-09-22 at 11.31.58_b0ffec59.jpg>)
 
 **Result :**
 Thus the Bresenham’s algorithm for line using a c coding is implemented successfully.
